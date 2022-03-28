@@ -21,3 +21,6 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Contributions! 
 Made with love by Christian Adkins :)
+
+## Video walkthrough
+[UNAVAILABLE]
